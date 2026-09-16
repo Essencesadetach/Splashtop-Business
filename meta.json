@@ -1,0 +1,23 @@
+{
+  "repo": "splashtop-business",
+  "product": "Splashtop Business",
+  "kind": "network",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "remote-access",
+  "topics": [
+    "splashtop-business",
+    "remote-session-desk",
+    "unattended-access-windows",
+    "splashtop-2026",
+    "how-to-install-splashtop",
+    "splashtop-desktop-package",
+    "file-drop-suite",
+    "multi-monitor-tools",
+    "support-log-desk",
+    "splashtop-pro-guide"
+  ],
+  "site": "toolix.me"
+}
